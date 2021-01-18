@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 export default function TituloComponent() {
   return (
-    <div className="titulo__secotion">
+    <div className="titulo__secotion ">
       <div className="catchphrase ml-24">
         <motion.p
           initial={{ x: 500, opacity: 0 }}
